@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hCy9v+jkhlr7sgtkjtRnJ+PDttrZy0am1sPxQIgmeIivElhUDgfBzsAj3re0h7X4oFUxuZB9xNNIuKcIOaHpPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yasemin\\source\\repos\\ödev1\\ödev1\\ödev1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasemin\\.nuget\\packages\\npgsql\\6.0.0\\npgsql.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yasemin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yasemin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Yasemin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
