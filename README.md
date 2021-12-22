@@ -1,1 +1,1 @@
-# vtys
+# VERİ TABANI YÖNETİM SİSTEMLERİ ÖDEVİ
